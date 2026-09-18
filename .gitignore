@@ -1,0 +1,14 @@
+# Altium Designer - gereksiz/otomatik üretilen dosyalar
+*.PcbDoc.Bak*
+*.SchDoc.Bak*
+*.PrjPcbStructure
+*.OutJob.Bak
+History/
+Project Outputs for *
+Project Logs for *
+__Previews/
+*.ddb
+*.DcaCache
+*.$$$
+Recycle Bin/
+*~
