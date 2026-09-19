@@ -1,5 +1,8 @@
 # xBowtie — 220V AC Beslemeli 4 Katmanlı Kontrol Kartı
 
+220V AC hatla çalışan, STM32 ve ESP32 tabanlı, sensör entegrasyonlu bir kontrol kartının 
+şematikten üretim çıktısına kadar uçtan uca tasarım sürecini bu depoda paylaşıyorum.
+
 ![3D Render](3D.png)
 ![3D Render - Alternatif Açı](3D_2.png)
 ![PCB Layout](pcb-layout.png)
